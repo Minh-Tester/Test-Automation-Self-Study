@@ -1,0 +1,22 @@
+{
+  "name": "testcafe_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "testcafe"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "chai": "^4.3.7",
+    "core-util-is": "^1.0.3",
+    "moment": "^2.29.4",
+    "testcafe": "^2.3.1",
+    "testcafe-reporter-allure": "^1.0.5"
+  }
+}

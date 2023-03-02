@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://www.agoda.com/",
+    "Starrating": [3, 4],
+    "MinimumPrice": "500000",
+    "MaximumPrice": "1000000",
+    "AdultNumber": 4,
+    "RoomNumber": 2,
+    "NumberOfHotels": 5,
+    "PropertyFacilities": ["Non-smoking"]
+}
